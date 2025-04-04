@@ -1,3 +1,7 @@
+<div align="center">
+  <img height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2k5cm90azZ0MXlqbHRpbzBuOGlraW1zYXBlNHg5dWxvMXd3d25sMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif"  />
+</div>
+
 <h1>👋 Hey there, I'm Suryaraj!👻</h1><br>
 💻 Aspiring Software Developer | Android Enthusiast | UI/UX Explorer 🎨<br>🚀 Passionate about crafting seamless user experiences and building innovative applications that solve real-world problems!<br>🔍 I love exploring Android Development, Java, Web Technologies, and Data Structures & Algorithms.<br>🎯 Currently, I’m working on sharpening my problem-solving skills and contributing to open-source projects.<br>🌱 Always eager to learn and grow in the world of tech!<br><br>💡 Fun Fact: When I’m not coding, you’ll find me sketching, cooking🍔, or exploring new tech trends!
 
