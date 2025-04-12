@@ -20,7 +20,7 @@ Here are some of my featured projects:
 - 🔥 Instant messaging with live updates.  
 - 🔐 Secure and responsive chat experience.  
 
-### ♟️ [Chess Game](https://github.com/b-suryaraj/Chess-Game)  
+### ♟️ [Chess Game](https://github.com/b-suryaraj/Java-Chess-Game)  
 🧠 A strategic chess game developed in Java.  
 - 🤖 Play against AI or another player.  
 - 🎭 Intuitive UI with smooth piece movement.  
