@@ -15,7 +15,7 @@
 ## 🚀 Projects  
 Here are some of my featured projects:  
 
-### 💬 [ChatHive](https://github.com/b-suryaraj/ChatHive)  
+### 💬 [ChatHive](https://github.com/b-suryaraj/chat_hive)  
 📨 A real-time chat application with a user-friendly UI.  
 - 🔥 Instant messaging with live updates.  
 - 🔐 Secure and responsive chat experience.  
